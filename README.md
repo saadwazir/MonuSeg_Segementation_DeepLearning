@@ -28,10 +28,22 @@ https://drive.google.com/open?id=1oO4sGu6hI0woqOG4915X5lXCoHQBWqFp
 
 ```
 ------------ Unet ------------
+open
+unet-train-test.ipynb
+from Unet folder to train and evaluate
 
+Quantitative and Qualitative Results are in the notebook
 ```
 
 ```
 --------- Deeplabv3plus ------
+open
+deeplabv3_train.ipynb
+from deeplabv3plus folder to train
 
+open
+deeplabv3_test_evaluation.ipynb
+to evaluate
+
+Quantitative and Qualitative Results are in the notebook
 ```
