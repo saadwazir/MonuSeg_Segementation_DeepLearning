@@ -1,5 +1,5 @@
 ```
-This repo contains code from several github repos - Thankx :)
+This repo contains code from several github repos - Thankx to them :)
 
 https://github.com/bonlime/keras-deeplab-v3-plus
 https://github.com/hlamba28/UNET-TGS
